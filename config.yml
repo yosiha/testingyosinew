@@ -33,7 +33,7 @@ sections:
   - SectionID: S2
     title: Section number2 - updated
     steps:
-      - ID: A22
+      - ID: A23
         title: Step 1 - Setup Scala development environment
         content: courses/example-course/01-first-step.md
 
