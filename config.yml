@@ -50,3 +50,10 @@ sections:
       - ID: A23
         title: Step 1 - Setup Scala development environment
         content: courses/example-course/01-first-step.md
+
+  - SectionID: S5
+    title: Section number55 - updated
+    steps:
+      - ID: A23
+        title: Step 1 - Setup Scala development environment
+        content: courses/example-course/01-first-step.md
